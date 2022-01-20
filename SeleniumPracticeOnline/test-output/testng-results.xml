@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-22T18:43:59 IST" name="Default suite" finished-at="2021-12-22T18:44:07 IST" duration-ms="8868">
+    <groups>
+    </groups>
+    <test started-at="2021-12-22T18:43:59 IST" name="Default test" finished-at="2021-12-22T18:44:07 IST" duration-ms="8868">
+      <class name="extentReport.ExtentReportGen">
+        <test-method is-config="true" signature="sysProperties()[pri:0, instance:extentReport.ExtentReportGen@8dbdac1]" started-at="2021-12-22T18:43:56 IST" name="sysProperties" finished-at="2021-12-22T18:43:59 IST" duration-ms="2885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sysProperties -->
+        <test-method signature="bing()[pri:0, instance:extentReport.ExtentReportGen@8dbdac1]" started-at="2021-12-22T18:43:59 IST" name="bing" finished-at="2021-12-22T18:44:01 IST" duration-ms="2747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bing -->
+        <test-method signature="google()[pri:0, instance:extentReport.ExtentReportGen@8dbdac1]" started-at="2021-12-22T18:44:01 IST" name="google" finished-at="2021-12-22T18:44:05 IST" duration-ms="3698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method signature="wiki()[pri:0, instance:extentReport.ExtentReportGen@8dbdac1]" started-at="2021-12-22T18:44:05 IST" name="wiki" finished-at="2021-12-22T18:44:07 IST" duration-ms="2380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wiki -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:extentReport.ExtentReportGen@8dbdac1]" started-at="2021-12-22T18:44:07 IST" name="exit" finished-at="2021-12-22T18:44:08 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- extentReport.ExtentReportGen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
